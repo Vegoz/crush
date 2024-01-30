@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "hello nastya",
+  titleHeader: "HELLO NASTYA",
   descriptionHeader:
-    "test 1",
-  buttonYes: "yes",
-  buttonNo: "no :(",
-  titleModar: "wtf",
+    "WILL YOU GO ON A DATE WITH ME???",
+  buttonYes: "YES",
+  buttonNo: "NO",
+  titleModar: "ПЕРЕМОГА!!!!!",
   descriptionModar:
-    "idk </br> idk2 </br> Love you <3",
+    "ВІТАЮ ВИ ВИГРАЛИ </br> КОЛИ ЙДЕМО? </br>",
 };
