@@ -6,6 +6,6 @@ const CONFIGDATA = {
   buttonNo: "NO",
   titleModar: "PEREMOGA!!!!",
   descriptionModar:
-     "TEST </br> Test2 </br> TEST 3 </br> where we going",
+     "OH YES </br> VERY GOOD </br> !!! </br> where we going",
 };
 };
