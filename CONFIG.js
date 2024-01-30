@@ -4,7 +4,7 @@ const CONFIGDATA = {
     "WILL YOU GO ON A DATE WITH ME???",
   buttonYes: "YES",
   buttonNo: "NO",
-  titleModar: "ПЕРЕМОГА!!!!!",
+  titleModar: "PEREMOGA!!!!",
   descriptionModar:
-    "ВІТАЮ ВИ ВИГРАЛИ </br> КОЛИ ЙДЕМО? </br>",
+    "GONGRATULATIONS!!!! WHERE AND WHEN WE GO?",
 };
